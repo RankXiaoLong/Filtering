@@ -1,0 +1,1 @@
+- Ref: [一个偏应用类型的贝叶斯计量，包括matlab code详解](https://www.bankofengland.co.uk/ccbs/applied-bayesian-econometrics-for-central-bankers-updated-2017)
